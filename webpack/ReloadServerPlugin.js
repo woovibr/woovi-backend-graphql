@@ -41,7 +41,6 @@ class ReloadServerPlugin {
 
         this.workers = [];
 
-        cluster.fork();
       },
     );
   }
