@@ -1316,10 +1316,10 @@
   dependencies:
     "@types/koa" "*"
 
-"@types/koa-graphql@^0.8.7":
-  version "0.8.7"
-  resolved "https://registry.yarnpkg.com/@types/koa-graphql/-/koa-graphql-0.8.7.tgz#20078090ad192e6cc7a7d2076ef25de8e4998280"
-  integrity sha512-nVhf65bVRr+0rQYM1E4xqViX0m87x/AcaJSnpJuecd/ggn8uYLGgX59T3cHhFEWs7IgVp9IC57vtTrFqvKOItg==
+"@types/koa-graphql@^0.8.11":
+  version "0.8.11"
+  resolved "https://registry.yarnpkg.com/@types/koa-graphql/-/koa-graphql-0.8.11.tgz#773bbd92352197bb9db339b249b16d20cc251336"
+  integrity sha512-/bymiToG4/R2bdWnBSLbjO5Nn4S1EsMML5XctWtqePcZjlk9rHo20QtnZUaFVJhhwhBjJkAY8Vr/Ozl6PiTr0w==
   dependencies:
     "@types/koa" "*"
     "@types/node" "*"
