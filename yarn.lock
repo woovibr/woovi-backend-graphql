@@ -1406,10 +1406,10 @@
   dependencies:
     webpack-dev-server "*"
 
-"@types/webpack-node-externals@2.5.3":
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/@types/webpack-node-externals/-/webpack-node-externals-2.5.3.tgz#921783aadda1fe686db0a70e20e4b9548b5a3cef"
-  integrity sha512-A9JxaR8QXoYT95egET4AmCFuChyTlP8d18ZAnmSHuIMsFdS7QlCQQ8pmN/+FHgLIkm+ViE/VngltT5avLACY9A==
+"@types/webpack-node-externals@3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@types/webpack-node-externals/-/webpack-node-externals-3.0.4.tgz#00581677aedea57cbe180afc2987b12fa95cf351"
+  integrity sha512-8Z3/edqxE3RRlOJwKSgOFxLZRt/i1qFlv/Bi308ZUKo9jh8oGngd9r8GR0ZNKW5AEJq8QNQE3b17CwghTjQ0Uw==
   dependencies:
     "@types/node" "*"
     webpack "^5"
