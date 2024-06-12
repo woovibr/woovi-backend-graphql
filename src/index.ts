@@ -1,6 +1,6 @@
-import { createServer } from 'http';
-import app from './app';
-import { config } from './config';
+import { createServer } from "http";
+import app from "./app";
+import { config } from "./config";
 
 (async () => {
   const server = createServer(app.callback());
