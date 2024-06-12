@@ -6,10 +6,12 @@ import {
   GraphQLString,
 } from "graphql";
 
-import { version } from "../../package.json";
+import packageJson from "../../package.json";
 import { GraphQLContext } from "../types";
 import UserType from "../modules/UserType";
 import TalkType from "../modules/TalkType";
+
+const { version } = packageJson;
 
 const host = {
   id: "1",
@@ -24,6 +26,7 @@ const speaker = {
 const users = [speaker, host];
 
 const talk = {
+  id: "1",
   name: "GraphQL - Real World",
   description: "Meetup Paraiba Js",
   speaker: {
