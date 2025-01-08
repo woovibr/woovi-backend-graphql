@@ -20,7 +20,7 @@ const host = {
 
 const speaker = {
   id: "2",
-  name: "Danilo Assis",
+  name: "Eduardo",
 };
 
 const users = [speaker, host];
